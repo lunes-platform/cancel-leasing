@@ -56,7 +56,7 @@ function App() {
             <h2 className="section-subtitle">What is happening?</h2>
             <p>
               Some Lunes users are having problems to cancel lease in{" "}
-              <a className="link" href="https://luneswallet.aoo">
+              <a className="link" href="https://luneswallet.app">
                 Lunes Wallet
               </a>
               .
